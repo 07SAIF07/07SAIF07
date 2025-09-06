@@ -57,11 +57,11 @@ Currently in my final year at ENSI, I combine theoretical knowledge with hands-o
 Real-time cardiovascular health monitoring system combining **signal filtering**, **anomaly detection**, and **disease classification**
 - **Tech Stack:** Raspberry Pi, STM32, TensorFlow, Digital Filtering, DWT
 - **Features:** Real-time ECG analysis, Edge AI processing, Medical-grade accuracy
-- **Repository:** [DTW-IDWT](https://github.com/07SAIF07/DTW-IDWT) | [DTW_app](https://github.com/07SAIF07/DTW_app)
+- **Repository:** [Edge-AI-Powered-ECG-Monitoring-System](https://github.com/07SAIF07/Edge-AI-Powered-ECG-Monitoring-System.git)
 
 ### 🔐 Secure Entry Access Control
 Advanced facial recognition system integrated with embedded platforms for smart security
-- **Tech Stack:** STM32, Computer Vision, Real-time Processing
+- **Tech Stack:** ESP32, Computer Vision, Real-time Processing
 - **Features:** High-accuracy facial recognition, Embedded integration, Secure access management
 
 ### 🤖 Autonomous Line Follower Robot
@@ -96,7 +96,7 @@ Complete IoT solution for smart agriculture with mobile application
 
 - **🎯 Co-Training Manager** - ENSI Competitive Programming Club
 - **🤖 Active Member** - ENSI Robotics Club
-- **💡 Mentor** - Junior students in embedded systems and competitive programming
+- **💡 Mentor** - Junior students in competitive programming
 
 ---
 
@@ -117,8 +117,6 @@ Complete IoT solution for smart agriculture with mobile application
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=07SAIF07&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07SAIF07&layout=compact&theme=radical&hide_border=true)
 
@@ -143,8 +141,10 @@ Complete IoT solution for smart agriculture with mobile application
 
 **Ready to collaborate on innovative embedded systems and AI projects!**
 
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Saif%20Eddin%20Brahmi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-eddin-brahmi-5a64b121a/)
 [![Email](https://img.shields.io/badge/📧%20Email-saifeddin.brahmi%40ensi--uma.tn-red?style=for-the-badge)](mailto:saifeddin.brahmi@ensi-uma.tn)
 [![Phone](https://img.shields.io/badge/📱%20Phone-%2B216%2058%20020%20139-green?style=for-the-badge)](tel:+21658020139)
+
 
 *"Transforming ideas into intelligent embedded solutions"* 🚀
 
