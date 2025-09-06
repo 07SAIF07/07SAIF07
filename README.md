@@ -7,9 +7,11 @@
 **ENSI (École Nationale des Sciences de l'Informatique) - Final Year**  
 *Seeking PFE (Final Year Project) Opportunities*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saif%20Eddin%20Brahmi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saif-eddin-brahmi-5a64b121a/)
 [![Email](https://img.shields.io/badge/Email-saifeddin.brahmi%40ensi--uma.tn-red?style=flat-square&logo=gmail)](mailto:saifeddin.brahmi@ensi-uma.tn)
 [![Phone](https://img.shields.io/badge/Phone-%2B216%2058%20020%20139-green?style=flat-square&logo=whatsapp)](tel:+21658020139)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-yellow?style=flat-square&logo=codeforces)](https://codeforces.com)
+
 
 </div>
 
